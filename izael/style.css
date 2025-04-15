@@ -46,11 +46,6 @@ h1 {
     outline: none;
 }
 
-.form-group input[type="checkbox"] {
-    width: auto;
-    margin-right: 10px;
-}
-
 .btn {
     width: 100%;
     padding: 12px;
@@ -65,19 +60,4 @@ h1 {
 
 .btn:hover {
     background-color: #0056b3;
-}
-
-.login-link {
-    text-align: center;
-    margin-top: 20px;
-    color: #666;
-}
-
-.login-link a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-.login-link a:hover {
-    text-decoration: underline;
 }
