@@ -22,18 +22,18 @@ h1 {
     color: #333;
 }
 
-.form-group {
+.cadastro {
     margin-bottom: 15px;
 }
 
-.form-group label {
+.cadastro label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
     color: #555;
 }
 
-.form-group input {
+.cadastro input {
     width: 100%;
     padding: 10px;
     border: 1px solid #ddd;
@@ -41,7 +41,7 @@ h1 {
     font-size: 16px;
 }
 
-.form-group input:focus {
+.cadastro input:focus {
     border-color: #007bff;
     outline: none;
 }
