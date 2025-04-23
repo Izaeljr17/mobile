@@ -66,9 +66,9 @@ h1 {
     position: relative;
     width: 425px;
     height: 530px;
-    border: 9px solid #333; /* Borda do celular */
-    border-radius: 30px; /* Bordas arredondadas */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para dar um efeito */
+    border: 9px solid #333;
+    border-radius: 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     background-color: #fff;
     display: flex;
     justify-content: center;
